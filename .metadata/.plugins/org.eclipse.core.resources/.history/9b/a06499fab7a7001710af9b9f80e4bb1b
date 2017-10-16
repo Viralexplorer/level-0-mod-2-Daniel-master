@@ -1,0 +1,17 @@
+package code;
+
+import javax.swing.JOptionPane;
+
+public class code {
+	public static void main(String[] args) {
+		JOptionPane.showInputDialog("1");
+		
+		int num1 = 26;
+		int num2 = 13;
+
+		 if(num1>num2){
+			 
+		 }
+		}
+	
+}
